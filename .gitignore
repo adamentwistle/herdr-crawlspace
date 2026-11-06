@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+art/raw/
+.legwork/
+mods/crawlspace/*.d.ts
+mods/crawlspace/jsconfig.json

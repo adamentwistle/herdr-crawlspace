@@ -1,0 +1,1 @@
+{ "name": "herdr-crawlspace", "private": true, "type": "module", "scripts": { "test": "node --test" } }
