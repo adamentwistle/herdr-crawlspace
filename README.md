@@ -2,7 +2,7 @@
 
 A first-person bug hunt to play while your agents work. You're the night tech under a server room, clearing mites, spitters and fuse wasps out of the crawlspace with a rivet gun, three levels down to the Brood Queen.
 
-![Crawlspace](preview.png)
+![Crawlspace mid-level in its overlay over a Herdr window](preview.png)
 
 A mod for the [Herdr](https://github.com/ogulcancelik/herdr) desktop app. It runs on the mod API alone, with no helper program. It was run in a real Herdr 0.1.13 window on Windows, at zooms 1.0 and 1.2. It hasn't been run on macOS or Linux.
 

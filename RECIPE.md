@@ -2,7 +2,7 @@
 
 A first-person shooter in a dialog over the window, to play while agents work. You walk grid-based corridors under a server room and shoot bugs across three levels, ending at a boss. Walls are textured, and bugs are painted sprites that hide behind nearer walls. A finished agent turn drops supplies, and a blocked agent shows a banner with a key to go to it.
 
-![Crawlspace](preview.png)
+![Crawlspace mid-level in its overlay over a Herdr window](preview.png)
 
 ## What you see
 
